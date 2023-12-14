@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rasayan and I'm a Front-End Dev and an aspiring ML enthusiast, from India</h2>
+<h2 align="left">Hi 👋! My name is Rasayan and I'm a Full-Stack Dev and an aspiring ML & Web3.0 enthusiast, from India</h2>
 
 ###
 
