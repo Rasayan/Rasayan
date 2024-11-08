@@ -49,9 +49,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rasayan/Rasayan/output/snake.svg" alt="Snake animation" />
-
-###
